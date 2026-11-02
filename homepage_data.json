@@ -18,19 +18,19 @@
       "presentation": "Oral presentation (top ~1%)",
       "preprint": "https://arxiv.org/abs/example-preprint",
       "openreview": "https://openreview.net/forum?id=example123",
-      "code": null,
-      "notes": "Camera-ready deadline: 2025-12-16"
+      "code": "https://github.com/moshakraft/ipsum-lorem-coml-2026",
+      "notes": "Accepted for an ORAL presentation at COML 2025 (Conference on Machine Learning; ~top 1%, 120 orals; 12-min talk + 2-min Q&A, in-person; presentations January 25-27, 2026). Camera-ready deadline: 2025-12-16."
     },
     {
-      "id": "colmm2025",
+      "id": "colm2025",
       "title": "Efficient Transformers for Long Document Summarization",
       "authors": "Jane Doe, John Smith, and Richard Roe",
       "conference": "COLM 2025",
-      "status": "under review",
+      "status": "accepted",
       "preprint": "https://arxiv.org/abs/example2",
       "openreview": null,
       "code": null,
-      "notes": "Camera-ready portal open, deadline: 2025-12-10"
+      "notes": "Previously under review; the COLM 2025 camera-ready portal opened (Congratulations on your accepted paper), so this paper is now ACCEPTED at the Conference on Language Modeling (COLM) 2025. Camera-ready deadline: 2025-12-10. No released code repository found yet."
     },
     {
       "id": "coai2025",
@@ -40,8 +40,20 @@
       "status": "accepted",
       "preprint": "https://arxiv.org/abs/example3",
       "openreview": null,
-      "code": null,
-      "notes": "Camera-ready deadline: 2025-12-12"
+      "code": "https://github.com/skippetran/llm-context-multitask",
+      "notes": "Accepted at COAI 2025 (Conference on Artificial Intelligence); camera-ready deadline: 2025-12-12 (8 pages + unlimited references and appendix)."
+    },
+    {
+      "id": "comlw2025_workshop",
+      "title": "Ipsum Lorem is all you need for a workshop",
+      "authors": "John Smith, Jane Doe, and Richard Roe",
+      "conference": "COMLW 2025",
+      "status": "accepted",
+      "presentation": "COML Workshop on Large Language Models (COMLW) - workshop paper",
+      "preprint": null,
+      "openreview": "https://openreview.net/group?id=COML.cc/2025/Workshop/LLM",
+      "code": "https://github.com/moshakraft/workshop-llm-comlw-2026",
+      "notes": "Accepted at the COML Workshop on Large Language Models (COMLW 2025); camera-ready due 2025-12-06; format: 4 pages + references."
     }
   ],
   "updated_date": "2025-12-05"
